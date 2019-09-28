@@ -1,2 +1,2 @@
 # sauron-pod.github.io
-Placeholder repo for github pages version of project. 
+Repo is used to redirect to digital ocean page. 
